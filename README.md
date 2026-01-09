@@ -17,6 +17,6 @@ Cara menjalankan:
 2. Import database:
    - `RestAPI/database/db_lost_found.sql`
 3. Jalankan di browser:
-   http://localhost/lost_found_api
+   http://localhost/lost-found
 4. Aplikasi akan otomatis diarahkan ke halaman login.
 
