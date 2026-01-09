@@ -13,7 +13,7 @@ Cara menjalankan:
 Folder `RestAPI` berisi backend PHP.
 
 Cara menjalankan:
-1. Pindahkan folder `RestAPI` ke `htdocs` (Laragon/XAMPP)
+1. Pindahkan folder `RestAPI` ke `htdocs` atau `www`  (XAMPP/Laragon)
 2. Import database:
    - `RestAPI/database/db_lost_found.sql`
 3. Jalankan di browser:
